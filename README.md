@@ -6,7 +6,14 @@ CANONICAL RESEARCH REPOSITORY
 
 Purpose : This repository preserves, develops and publishes the canonical Civilizational White Paper for the HEXERCHY SOVEREIGN CYBERNETIC INTELLIGENCE SYSTEM. The White Paper establishes the constitutional, conceptual and cybernetic foundations upon which subsequent engineering, governance, software and institutional developments are progressively constructed.
 
-Why this Repository Exists : The Civilizational White Paper serves multiple constitutional and developmental purposes. It provides: the foundational conceptual framework; the authoritative intellectual reference; the basis for partnership development; support for intellectual property stewardship; constitutional documentation of the evolving system; guidance for multidisciplinary collaboration; and the conceptual bridge between constitutional theory and technical implementation.
+Why this Repository Exists : The Civilizational White Paper serves multiple constitutional and developmental purposes. It provides:
+the foundational conceptual framework;
+the authoritative intellectual reference; 
+the basis for partnership development; 
+support for intellectual property stewardship; 
+constitutional documentation of the evolving system; 
+guidance for multidisciplinary collaboration; 
+and the conceptual bridge between constitutional theory and technical implementation.
 
 Repository Structure : This repository progressively develops and preserves
 Civilizational White Paper
