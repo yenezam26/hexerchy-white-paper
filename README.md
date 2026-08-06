@@ -2,8 +2,7 @@ HEXERCHY Civilizational White Paper
 Canonical Research Repository
 "The foundational research publication introducing the HEXERCHY Sovereign Cybernetic Intelligence System."
 
-Purpose
-This repository preserves, develops and publishes the canonical Civilizational White Paper for the HEXERCHY Sovereign Cybernetic Intelligence System. The White Paper establishes the constitutional, conceptual and cybernetic foundations upon which subsequent engineering, governance, software and institutional developments are progressively constructed.
+Purpose : This repository preserves, develops and publishes the canonical Civilizational White Paper for the HEXERCHY Sovereign Cybernetic Intelligence System. The White Paper establishes the constitutional, conceptual and cybernetic foundations upon which subsequent engineering, governance, software and institutional developments are progressively constructed.
 
 Why this Repository Exists : The Civilizational White Paper serves multiple constitutional and developmental purposes. It provides: the foundational conceptual framework; the authoritative intellectual reference; the basis for partnership development; support for intellectual property stewardship; constitutional documentation of the evolving system; guidance for multidisciplinary collaboration; and the conceptual bridge between constitutional theory and technical implementation.
 
